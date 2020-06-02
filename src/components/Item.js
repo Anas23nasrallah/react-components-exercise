@@ -1,6 +1,8 @@
 import React from 'react'
 
 
-const Item = () => {}
+const Item = () => {
+    return (<p>This is the ITEM ok?</p>)
+}
 
 export default Item

@@ -23,6 +23,7 @@ body{
     display: grid;
     grid-template-columns: repeat(10, 1fr)
   }
+  
 
 button{
       width: 50px;
